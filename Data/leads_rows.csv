@@ -1,0 +1,6 @@
+id,created_at,name,email,status,source
+1,2026-09-08 19:23:30+00,Ali,ali@example.com,new,WhatsApp
+2,2026-09-07 19:24:37+00,Danish,danish@example.com,Contacted,Instagram
+3,2026-09-08 19:30:09+00,Haseeb,haseeb@example.com,new,Website
+4,2026-09-04 19:32:19+00,Allyan,allyan@example.com,qualified,LinkedIn
+5,2026-08-25 19:33:52+00,Mubashir,mubashir@example.com,closed,Website
