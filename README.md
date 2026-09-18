@@ -68,7 +68,8 @@ Agent-Core-V1/
 ├── main.py            # Agent loop: input → tool selection → execution → response
 ├── get_lead_count.py  # Tool: queries Supabase for the current lead count
 ├── .env.example       # Environment variable template (copy to .env)
-├── leads_rows.csv     # Sample lead data for local testing / Supabase import
+├── Data/
+│   └── leads_rows.csv     # Sample lead data for local testing / Supabase import
 ├── requirements.txt
 ├── LICENSE
 └── README.md
