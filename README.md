@@ -170,4 +170,4 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 **Yousaf Sulaiman**
 
 - GitHub: [@yousaf814](https://github.com/yousaf814)
-- LinkedIn: [](www.linkedin.com/in/yousaf-sulaiman-4ab7212a8)
+- LinkedIn: [yousafsulaiman](https://www.linkedin.com/in/yousaf-sulaiman-4ab7212a8)
