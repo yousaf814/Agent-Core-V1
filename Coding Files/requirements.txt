@@ -1,4 +1,0 @@
-google-genai==0.1.11
-pydantic==2.9.2
-python-dotenv==1.0.1
-supabase==2.31.0
